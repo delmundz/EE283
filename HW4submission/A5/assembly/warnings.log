@@ -1,0 +1,4 @@
+
+=== Error correction and assembling warnings:
+ * 0:00:08.676     1M / 5194M WARN    General                 (kmer_coverage_model.cpp   : 367)   Failed to determine erroneous kmer threshold. Threshold set to: 3
+======= Warnings saved to /pub/delmundz/EE283/HW4/A5/assembly/warnings.log

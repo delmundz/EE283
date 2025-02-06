@@ -1,0 +1,5 @@
+
+=== Error correction and assembling warnings:
+ * 0:00:11.915     1M / 5194M WARN    General                 (kmer_coverage_model.cpp   : 219)   Too many erroneous kmers, the estimates might be unreliable
+ * 0:00:12.127     1M / 5194M WARN    General                 (kmer_coverage_model.cpp   : 367)   Failed to determine erroneous kmer threshold. Threshold set to: 4
+======= Warnings saved to /pub/delmundz/EE283/HW4/A4/assembly/warnings.log
