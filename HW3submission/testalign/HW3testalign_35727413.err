@@ -1,6 +1,0 @@
-/export/spool/slurm/slurmd.spool/job35727413/slurm_script: line 17: gizp: command not found
-gzip: /ADL06_1_1.fq.gz: No such file or directory
-gzip: /ADL06_1_2.fq.gz: No such file or directory
-[E::bwa_idx_load_from_disk] fail to locate the index files
-[main_samview] fail to read the header from "-".
-samtools sort: failed to read header from "test.bam"

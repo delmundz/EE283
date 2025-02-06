@@ -1,0 +1,10 @@
+TrimmomaticPE: Started with arguments:
+ -threads 4 ADL06_1_1.fq.gz ADL06_1_2.fq.gz out_ADL06_1_1.fq.gz out_ADL06_1_2.fq.gz ILLUMINACLIP:TruSeq3-PE.fa:2:30:10:2:True LEADING:3 TRAILING:3 MINLEN:36
+Exception in thread "main" java.io.FileNotFoundException: ADL06_1_1.fq.gz (No such file or directory)
+	at java.io.FileInputStream.open0(Native Method)
+	at java.io.FileInputStream.open(FileInputStream.java:195)
+	at java.io.FileInputStream.<init>(FileInputStream.java:138)
+	at org.usadellab.trimmomatic.fastq.FastqParser.parse(FastqParser.java:135)
+	at org.usadellab.trimmomatic.TrimmomaticPE.process(TrimmomaticPE.java:265)
+	at org.usadellab.trimmomatic.TrimmomaticPE.run(TrimmomaticPE.java:555)
+	at org.usadellab.trimmomatic.Trimmomatic.main(Trimmomatic.java:80)
