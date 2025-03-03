@@ -9,7 +9,7 @@
 module load subread/2.0.3
 
 gtf="/pub/delmundz/Work_ee283/HW3/ref/dmel-all-r6.13.gtf"
-dir="pub/nujagar/work_EE283/HW7/output"
+dir="pub/delmundz/Work_ee283/HW7/output"
 
 myfile=`cat ${dir}/shortRNAseq.names.txt | tr "\n" " "`
 featureCounts -p -T 8 -t exon -g gene_id -Q 30 -F GTF -a $gtf -o ${dir}/fly_counts.txt $myfile
