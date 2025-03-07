@@ -1,0 +1,15 @@
+Status	/pub/delmundz/Work_ee283/HW3/alignRNAseq/aligned/21029B0.sort.bam	/pub/delmundz/Work_ee283/HW3/alignRNAseq/aligned/21001B0.sort.bam	/pub/delmundz/Work_ee283/HW3/alignRNAseq/aligned/21025B0.sort.bam	/pub/delmundz/Work_ee283/HW3/alignRNAseq/aligned/21012B0.sort.bam	/pub/delmundz/Work_ee283/HW3/alignRNAseq/aligned/21002B0.sort.bam	/pub/delmundz/Work_ee283/HW3/alignRNAseq/aligned/21020B0.sort.bam	/pub/delmundz/Work_ee283/HW3/alignRNAseq/aligned/21029E0.sort.bam	/pub/delmundz/Work_ee283/HW3/alignRNAseq/aligned/21001E0.sort.bam	/pub/delmundz/Work_ee283/HW3/alignRNAseq/aligned/21025E0.sort.bam	/pub/delmundz/Work_ee283/HW3/alignRNAseq/aligned/21012E0.sort.bam	/pub/delmundz/Work_ee283/HW3/alignRNAseq/aligned/21002E0.sort.bam
+Assigned	602631	1263326	1493547	885441	680990	1061212	490395	693810	672814	899411	716914
+Unassigned_Unmapped	182280	361082	404028	250987	207140	274797	167012	224997	215792	227604	267023
+Unassigned_Read_Type	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MappingQuality	13406682	28894175	30525200	20723292	15603675	18683936	14454079	16499586	16473862	14315649	23208949
+Unassigned_Chimera	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Secondary	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	131538	305892	302488	149226	147491	196654	175083	202501	210778	250627	252477
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	141124	319831	381740	207007	153471	250007	145217	208491	179706	139903	209938
