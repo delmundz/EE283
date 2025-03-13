@@ -1,0 +1,11 @@
+/pub/delmundz/Work_ee283/HW3/alignRNAseq/aligned/21029B0.sort.bam
+/pub/delmundz/Work_ee283/HW3/alignRNAseq/aligned/21001B0.sort.bam
+/pub/delmundz/Work_ee283/HW3/alignRNAseq/aligned/21025B0.sort.bam
+/pub/delmundz/Work_ee283/HW3/alignRNAseq/aligned/21012B0.sort.bam
+/pub/delmundz/Work_ee283/HW3/alignRNAseq/aligned/21002B0.sort.bam
+/pub/delmundz/Work_ee283/HW3/alignRNAseq/aligned/21020B0.sort.bam
+/pub/delmundz/Work_ee283/HW3/alignRNAseq/aligned/21029E0.sort.bam
+/pub/delmundz/Work_ee283/HW3/alignRNAseq/aligned/21001E0.sort.bam
+/pub/delmundz/Work_ee283/HW3/alignRNAseq/aligned/21025E0.sort.bam
+/pub/delmundz/Work_ee283/HW3/alignRNAseq/aligned/21012E0.sort.bam
+/pub/delmundz/Work_ee283/HW3/alignRNAseq/aligned/21002E0.sort.bam
